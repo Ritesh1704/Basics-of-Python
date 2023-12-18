@@ -69,17 +69,6 @@ A number and a dot followed by a single space, i.e., to make numbered lists
 # 2. Pran
 # 3. Allan
 
-# https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
-
-# https://www.markdownguide.org/cheat-sheet/
-
-# ### Line Breaks
-
-# Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br> and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-# ## PythonTutor can be used to visualize your code
-
-# https://pythontutor.com/visualize.html#mode=edit
 
 # ## Python Variables
 
@@ -118,9 +107,7 @@ print(my_string)
 print(type(my_string))
 
 
-# `tab` : `to auto complete the part of the code`
-# 
-# `shift + tab`: `to see the documentation for the selected function/keyword`
+
 
 # ### Variable naming conventions
 
