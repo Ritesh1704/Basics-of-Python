@@ -397,19 +397,6 @@ print(list(range(1,n+1)))
 print(list(range(1,n+2)))
 
 
-# ## H/W Q Calculate the sum of square of `n` natural numbers
-# 
-# **Need to use** `for loop` and `range()`
-# 
-# **DO NOT USE THE STD. FORMULA**
-# 
-
-# ![image.png](attachment:image.png)
-
-# ## Conditional Loops: `for` loop with `if-elif-else`
-
-# A **`for`** loop can have an optional [if-else] block. The **`if-else`** checks the condition and if the condition is **`True`** it executes the block of code present inside the **`if`** block and if the condition is **`False`**, it will execute the block of code present inside the **`else`** block.
-
 # In[ ]:
 
 
